@@ -1,11 +1,12 @@
 # 规则名称: AI
-# 规则统计: 36
+# 规则统计: 37
 
 domain_set:
   - ai.google.dev
   - alkalicore-pa.clients6.google.com
   - api.github.com
   - gateway.ai.cloudflare.com
+  - jules.google.com
   - th1s_rule5et_1s_m4d3_by_5ukk4w_ruleset.skk.moe
 domain_suffix_set:
   - ai.com
